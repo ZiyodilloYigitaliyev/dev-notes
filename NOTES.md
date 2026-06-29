@@ -66,3 +66,4 @@
 - Qayd #64 — qisqa texnik eslatma
 - Qayd #65 — qisqa texnik eslatma
 - Qayd #66 — qisqa texnik eslatma
+- Qayd #67 — qisqa texnik eslatma
