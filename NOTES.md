@@ -21,3 +21,4 @@
 - Qayd #19 — qisqa texnik eslatma
 - Qayd #20 — qisqa texnik eslatma
 - Qayd #21 — qisqa texnik eslatma
+- Qayd #22 — qisqa texnik eslatma
