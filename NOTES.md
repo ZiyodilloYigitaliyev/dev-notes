@@ -20,3 +20,4 @@
 - Qayd #18 — qisqa texnik eslatma
 - Qayd #19 — qisqa texnik eslatma
 - Qayd #20 — qisqa texnik eslatma
+- Qayd #21 — qisqa texnik eslatma
