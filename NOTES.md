@@ -110,3 +110,4 @@
 - Qayd #108 — qisqa texnik eslatma
 - Qayd #109 — qisqa texnik eslatma
 - Qayd #110 — qisqa texnik eslatma
+- Qayd #111 — qisqa texnik eslatma
