@@ -26,3 +26,4 @@
 - Qayd #24 — qisqa texnik eslatma
 - Qayd #25 — qisqa texnik eslatma
 - Qayd #26 — qisqa texnik eslatma
+- Qayd #27 — qisqa texnik eslatma
