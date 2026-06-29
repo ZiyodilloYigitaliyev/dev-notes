@@ -99,3 +99,4 @@
 - Qayd #97 — qisqa texnik eslatma
 - Qayd #98 — qisqa texnik eslatma
 - Qayd #99 — qisqa texnik eslatma
+- Qayd #100 — qisqa texnik eslatma
