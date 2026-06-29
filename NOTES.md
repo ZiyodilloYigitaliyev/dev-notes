@@ -119,3 +119,4 @@
 - Qayd #117 — qisqa texnik eslatma
 - Qayd #118 — qisqa texnik eslatma
 - Qayd #119 — qisqa texnik eslatma
+- Qayd #120 — qisqa texnik eslatma
