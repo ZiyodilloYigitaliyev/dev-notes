@@ -16,3 +16,4 @@
 - Qayd #14 — qisqa texnik eslatma
 - Qayd #15 — qisqa texnik eslatma
 - Qayd #16 — qisqa texnik eslatma
+- Qayd #17 — qisqa texnik eslatma
