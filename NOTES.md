@@ -7,3 +7,4 @@
 - Qayd #5 — qisqa texnik eslatma
 - Qayd #6 — qisqa texnik eslatma
 - Qayd #7 — qisqa texnik eslatma
+- Qayd #8 — qisqa texnik eslatma
