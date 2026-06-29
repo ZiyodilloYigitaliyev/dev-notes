@@ -83,3 +83,4 @@
 - Qayd #81 — qisqa texnik eslatma
 - Qayd #82 — qisqa texnik eslatma
 - Qayd #83 — qisqa texnik eslatma
+- Qayd #84 — qisqa texnik eslatma
