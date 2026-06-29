@@ -124,3 +124,4 @@
 - Qayd #122 — qisqa texnik eslatma
 - Qayd #123 — qisqa texnik eslatma
 - Qayd #124 — qisqa texnik eslatma
+- Qayd #125 — qisqa texnik eslatma
