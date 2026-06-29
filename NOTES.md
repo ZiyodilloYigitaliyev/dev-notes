@@ -28,3 +28,4 @@
 - Qayd #26 — qisqa texnik eslatma
 - Qayd #27 — qisqa texnik eslatma
 - Qayd #28 — qisqa texnik eslatma
+- Qayd #29 — qisqa texnik eslatma
