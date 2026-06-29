@@ -44,3 +44,4 @@
 - Qayd #42 — qisqa texnik eslatma
 - Qayd #43 — qisqa texnik eslatma
 - Qayd #44 — qisqa texnik eslatma
+- Qayd #45 — qisqa texnik eslatma
