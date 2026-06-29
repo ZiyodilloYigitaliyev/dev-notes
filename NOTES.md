@@ -37,3 +37,4 @@
 - Qayd #35 — qisqa texnik eslatma
 - Qayd #36 — qisqa texnik eslatma
 - Qayd #37 — qisqa texnik eslatma
+- Qayd #38 — qisqa texnik eslatma
