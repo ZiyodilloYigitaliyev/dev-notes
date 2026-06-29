@@ -73,3 +73,4 @@
 - Qayd #71 — qisqa texnik eslatma
 - Qayd #72 — qisqa texnik eslatma
 - Qayd #73 — qisqa texnik eslatma
+- Qayd #74 — qisqa texnik eslatma
