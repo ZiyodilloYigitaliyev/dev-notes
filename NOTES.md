@@ -58,3 +58,4 @@
 - Qayd #56 — qisqa texnik eslatma
 - Qayd #57 — qisqa texnik eslatma
 - Qayd #58 — qisqa texnik eslatma
+- Qayd #59 — qisqa texnik eslatma
