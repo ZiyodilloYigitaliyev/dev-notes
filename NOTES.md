@@ -49,3 +49,4 @@
 - Qayd #47 — qisqa texnik eslatma
 - Qayd #48 — qisqa texnik eslatma
 - Qayd #49 — qisqa texnik eslatma
+- Qayd #50 — qisqa texnik eslatma
