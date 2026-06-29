@@ -79,3 +79,4 @@
 - Qayd #77 — qisqa texnik eslatma
 - Qayd #78 — qisqa texnik eslatma
 - Qayd #79 — qisqa texnik eslatma
+- Qayd #80 — qisqa texnik eslatma
