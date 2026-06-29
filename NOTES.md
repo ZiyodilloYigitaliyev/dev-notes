@@ -52,3 +52,4 @@
 - Qayd #50 — qisqa texnik eslatma
 - Qayd #51 — qisqa texnik eslatma
 - Qayd #52 — qisqa texnik eslatma
+- Qayd #53 — qisqa texnik eslatma
