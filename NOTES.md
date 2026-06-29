@@ -10,3 +10,4 @@
 - Qayd #8 — qisqa texnik eslatma
 - Qayd #9 — qisqa texnik eslatma
 - Qayd #10 — qisqa texnik eslatma
+- Qayd #11 — qisqa texnik eslatma
