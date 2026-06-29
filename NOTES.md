@@ -69,3 +69,4 @@
 - Qayd #67 — qisqa texnik eslatma
 - Qayd #68 — qisqa texnik eslatma
 - Qayd #69 — qisqa texnik eslatma
+- Qayd #70 — qisqa texnik eslatma
